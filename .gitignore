@@ -26,3 +26,9 @@ ssl/
 
 # Vercel
 .vercel
+
+# Next.js build artifacts
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
